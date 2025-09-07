@@ -6,7 +6,7 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 
 ---
 
-<details>
+<details open>
 <summary><strong>𝗘𝗡 English </strong></summary>
 
 ### Features
