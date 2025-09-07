@@ -2,12 +2,17 @@
 
 ![Demonstração do Chatbot Vetric](demo.gif)
 
+### 🌐 [Try the live demo here!](https://gustarlz.pythonanywhere.com/)
+
 A simple chatbot built as a practical exercise to learn Python, Flask, and integration with external APIs. This project serves as a functional test of these technologies working together.
 
 ---
 
-<details open>
-<summary><strong>𝗘𝗡 English </strong></summary>
+<details>
+<summary><strong>🇬🇧 English Version</strong></summary>
+
+### Project Context Note
+To demonstrate the assistant's customization capabilities, it has been configured for a **fictional company ("Soluções Inteligentes") with fictional products**. The chatbot's name, "Vetric," and all product details mentioned in the conversation are part of this simulation to showcase a real-world use case.
 
 ### Features
 - **Floating Widget Interface:** A chat window that can be opened and closed on any page.
@@ -24,11 +29,11 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 
 ### How to Run Locally
 1.  **Prerequisites:** Python 3.8+, Git
-2.  **Clone:** `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git && cd YOUR-REPOSITORY-NAME`
+2.  **Clone:** `git clone https://github.com/gustarlz/YOUR-REPOSITORY-NAME.git && cd YOUR-REPOSITORY-NAME` <!--- PREENCHA AQUI -->
 3.  **Environment:** `py -m venv venv && .\venv\Scripts\activate` (Windows) or `source venv/bin/activate` (macOS/Linux)
 4.  **Install:** `pip install -r requirements.txt`
 5.  **Configure:** Create a `.env` file and add `GOOGLE_API_KEY=YOUR_SECRET_API_KEY_HERE`
-6.  **Run:** `py app.py` and navigate to `http://12.0.0.1:5000`.
+6.  **Run:** `py app.py` and navigate to `http://127.0.0.1:5000`.
 
 ---
 *Developed by gustarlz.*
@@ -38,7 +43,10 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 <br>
 
 <details open>
-<summary><strong>🇧🇷 Português</strong></summary>
+<summary><strong>🇧🇷 Versão em Português</strong></summary>
+
+### Nota sobre o Contexto do Projeto
+Para demonstrar a capacidade de personalização do assistente, ele foi configurado para uma **empresa fictícia ("Soluções Inteligentes") com produtos também fictícios**. O nome do chatbot, "Vetric", e todos os detalhes de produtos mencionados na conversa fazem parte dessa simulação para apresentar um caso de uso prático.
 
 ### Funcionalidades
 - **Interface de Widget Flutuante:** Uma janela de chat que pode ser aberta e fechada em qualquer página.
@@ -55,7 +63,7 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 
 ### Como Executar Localmente
 1.  **Pré-requisitos:** Python 3.8+, Git
-2.  **Clonar:** `git clone https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git && cd NOME-DO-SEU-REPOSITORIO`
+2.  **Clonar:** `git clone https://github.com/gustarlz/SEU-REPOSITORIO.git && cd SEU-REPOSITORIO` <!--- PREENCHA AQUI -->
 3.  **Ambiente Virtual:** `py -m venv venv && .\venv\Scripts\activate` (Windows) ou `source venv/bin/activate` (macOS/Linux)
 4.  **Instalar:** `pip install -r requirements.txt`
 5.  **Configurar:** Crie um arquivo `.env` e adicione `GOOGLE_API_KEY=SUA_CHAVE_DE_API_SECRETA_AQUI`
