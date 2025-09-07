@@ -1,4 +1,4 @@
-# Vetric - Chatbot com Python e Google API
+# Vetric - Chatbot with Python and Google API
 
 ![Demonstração do Chatbot Vetric](demo.gif)
 
@@ -7,7 +7,7 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 ---
 
 <details>
-<summary><strong>𝗘𝗡 English Version</strong></summary>
+<summary><strong>𝗘𝗡 English </strong></summary>
 
 ### Features
 - **Floating Widget Interface:** A chat window that can be opened and closed on any page.
@@ -38,7 +38,7 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 <br>
 
 <details open>
-<summary><strong>🇧🇷 Versão em Português</strong></summary>
+<summary><strong>🇧🇷 Português</strong></summary>
 
 ### Funcionalidades
 - **Interface de Widget Flutuante:** Uma janela de chat que pode ser aberta e fechada em qualquer página.
