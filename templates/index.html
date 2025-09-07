@@ -1,0 +1,46 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soluções Inteligentes</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="background-content">
+        <h1>Página da Empresa Soluções Inteligentes</h1>
+        <p>Este é o conteúdo principal do seu site.</p>
+    </div>
+
+    <!-- WIDGET DO CHAT -->
+    <div class="chat-container" id="chat-container">
+        <div class="chat-header">
+            <div class="header-content">
+                 <!-- (MUDANÇA) ADICIONADO BOTÃO DE RECOMEÇAR AQUI -->
+                <button class="new-chat-btn" id="new-chat-btn" title="Iniciar Nova Conversa">
+                    <i class="fa-solid fa-arrows-rotate"></i>
+                </button>
+                <h2>Vetric - Assistente</h2>
+            </div>
+            <button class="close-chat-btn" id="close-chat-btn">&times;</button>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <!-- O conteúdo inicial será adicionado pelo JavaScript -->
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Digite sua mensagem...">
+            <button id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+        </div>
+    </div>
+
+    <!-- BOTÃO FLUTUANTE PARA ABRIR O CHAT -->
+    <button class="chat-open-btn" id="chat-open-btn">
+        <i class="fa-solid fa-comment-dots"></i>
+    </button>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
