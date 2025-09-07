@@ -8,8 +8,8 @@ A simple chatbot built as a practical exercise to learn Python, Flask, and integ
 
 ---
 
-<details>
-<summary><strong>🇬🇧 English Version</strong></summary>
+<details open>
+<summary><strong>𝗘𝗡 English Version</strong></summary>
 
 ### Project Context Note
 To demonstrate the assistant's customization capabilities, it has been configured for a **fictional company ("Soluções Inteligentes") with fictional products**. The chatbot's name, "Vetric," and all product details mentioned in the conversation are part of this simulation to showcase a real-world use case.
