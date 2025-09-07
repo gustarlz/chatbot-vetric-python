@@ -2,12 +2,12 @@
 
 ![Demonstração do Chatbot Vetric](demo.gif)
 
-Um chatbot simples construído como um exercício prático para aprender Python, Flask e a integração com APIs externas. Este projeto serve como um teste funcional destas tecnologias trabalhando em conjunto.
+A simple chatbot built as a practical exercise to learn Python, Flask, and integration with external APIs. This project serves as a functional test of these technologies working together.
 
 ---
 
 <details>
-<summary><strong>🇬🇧 English Version</strong></summary>
+<summary><strong>𝗘𝗡 English Version</strong></summary>
 
 ### Features
 - **Floating Widget Interface:** A chat window that can be opened and closed on any page.
