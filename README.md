@@ -4,7 +4,7 @@
 
 ### 🌐 [Try the live demo here!](https://gustarlz.pythonanywhere.com/)
 
-A simple chatbot built as a practical exercise to learn Python, Flask, and integration with external APIs. This project serves as a functional test of these technologies working together.
+A simple assistant chatbot built as a practical exercise to learn Python, Flask, and integration with external APIs. This project serves as a functional test of these technologies working together.
 
 ---
 
